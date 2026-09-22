@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  height: 3000px;
+  font-family: Arial, sans-serif;
+}
+
+.server-sidebar {
+  background-color: rgb(33, 33, 33);
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  padding: 10px;
+}
+
+.server-icon {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.channel-sidebar {
+  background-color: rgb(55, 55, 55);
+  position: fixed;
+  left: 70px;
+  top: 0;
+  bottom: 0;
+  width: 150px;
+  padding: 15px;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.sidebar-title {
+  color: white;
+  font-size: 14px;
+}
+
+.create-channel {
+  color: rgb(150, 150, 150);
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.channel {
+  color: rgb(150, 150, 150);
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+.channel:hover {
+  color: white;
+}
