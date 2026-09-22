@@ -13,4 +13,4 @@ A simple and interactive Discord-inspired sidebar built with HTML and CSS.
 
 - ## 📸 Preview
 
-- <img width="409" height="479" alt="Screenshot 2026-09-22 191735" src="https://github.com/user-attachments/assets/c92841fc-aa89-4f5e-a9f7-688161de51b3" />
+<img width="409" height="479" alt="Screenshot 2026-09-22 191735" src="https://github.com/user-attachments/assets/a31ec695-f38f-4f62-844b-ec55615f7a86" />
